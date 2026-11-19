@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scrape": "tsx scripts/scrape-flights.ts"
+    "seed:airports": "tsx scripts/seed-airports.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.3",
