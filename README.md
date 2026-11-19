@@ -1,6 +1,16 @@
 # ✈️ Flight Tracker - Never Miss a Cheap Flight
 
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green?style=for-the-badge&logo=supabase)](https://supabase.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+
 A modern flight tracking and price alert system built with Next.js, Supabase, and multiple flight data providers.
+
+![Flight Tracker Demo](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&h=400&fit=crop)
+
+> 🚀 **Live Demo**: Coming soon! | 📖 **Documentation**: [Read the docs](./FEATURES.md) | 💬 **Community**: [Discussions](https://github.com/axoxal/flight-tracker/discussions)
 
 ## 🚀 Features
 
